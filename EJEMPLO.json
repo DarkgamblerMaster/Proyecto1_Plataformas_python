@@ -1,0 +1,32 @@
+[
+    {
+        "id": "RE20220710_221715",
+        "crypto": "bitcoin",
+        "compra": 20612.26,
+        "venta": 20543.21,
+        "monto": 100,
+        "beneficio": -0.3349948040632045,
+        "fecha_compra": "2022/07/10 22:00:27",
+        "fecha_venta": "2022/07/10 22:17:15"
+    },
+    {
+        "id": "RE20220710_220824",
+        "crypto": "ethereum",
+        "compra": 1153.22,
+        "venta": 1153.77,
+        "monto": 100,
+        "beneficio": 0.04769254782261978,
+        "fecha_compra": "2022/07/10 22:04:08",
+        "fecha_venta": "2022/07/10 22:08:24"
+    },
+    {
+        "id": "0",
+        "crypto": "bnb",
+        "compra": 231.25,
+        "venta": 231.55,
+        "monto": 1000,
+        "beneficio": 0,
+        "fecha_compra": "0",
+        "fecha_venta": "0"
+    }
+]
