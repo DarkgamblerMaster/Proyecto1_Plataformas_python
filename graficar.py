@@ -91,7 +91,12 @@ def graficar_beneficios():
 
     # algunos atributos de los graficos de barras
     plt.grid(axis = 'y', color='gray', linestyle='dashed')
+    # color de las barras
     plt.bar(X, Y, color='r')
+    # rotacion de las etiquetas para que no se peguen
+    plt.xticks(rotation = 45)
+    # aumento del tamano del bottom para que se vea el xlabel
+    plt.subplots_adjust(bottom=0.25)
     plt.title("BENEFICIOS POR CRYPTOMONEDA")
     plt.xlabel("CRYPTOMONEDAS")
     plt.ylabel("BENEFICIOS")
