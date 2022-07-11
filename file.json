@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "crypto": "bnb",
+        "compra": 230.26,
+        "venta": 231.65,
+        "monto": 1000,
+        "beneficio": 0,
+        "fecha_compra": "0",
+        "fecha_venta": "0"
+    },
+    {
+        "id": "0",
+        "crypto": "solana",
+        "compra": 34.94,
+        "venta": 35.2,
+        "monto": 200,
+        "beneficio": 0,
+        "fecha_compra": "2022/07/11 08:22:37",
+        "fecha_venta": "0"
+    },
+    {
+        "id": "0",
+        "crypto": "polkadot-new",
+        "compra": 6.77,
+        "venta": 6.82,
+        "monto": 450,
+        "beneficio": 0,
+        "fecha_compra": "2022/07/11 08:22:38",
+        "fecha_venta": "0"
+    }
+]
